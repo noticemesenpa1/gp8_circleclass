@@ -6,7 +6,7 @@ class Circle:
 
 
     def calculate_area(self):
-        print("Area equals" +   self.radius * 3.14 ** 2)
+        print("Area equals" +   str(self.radius * 3.14 ** 2))
 
 
     def calculate_perimeter(self):
