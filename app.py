@@ -1,3 +1,4 @@
+from circle import Circle
 circle1 = Circle(5.0)
 circle1.calculate_area()
 circle1.calculate_perimeter()
