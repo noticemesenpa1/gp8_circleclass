@@ -11,4 +11,4 @@ class Circle:
 
     def calculate_perimeter(self):
         c = 2 * 3.14 * self.radius
-        print("Perimeter equals" + self.radius + c)
+        print("Perimeter equals" + str(self.radius + c))
